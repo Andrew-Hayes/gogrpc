@@ -24,3 +24,5 @@ go get -u github.com/grpc-ecosystem/grpc-gateway/protoc-gen-swagger
 go get -u github.com/golang/protobuf/protoc-gen-go
 go get -u github.com/gogo/protobuf/protoc-gen-gogo
 go get -u github.com/jteeuwen/go-bindata/...
+go get -u golang.org/x/tools/cmd/goimports
+go get -u golang.org/x/lint/golint
